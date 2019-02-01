@@ -1,0 +1,29 @@
+Horizontal Push 4
+Horizontal Pull 3
+Incline Push 3
+VerticalPull 3
+Tricep Iso 3
+Bicep Iso 3
+Lateral Raises 3
+
+Squat 4
+HipHinge 4
+Quad Iso 3
+Ham Iso 3
+Glute Iso 3
+Calf Iso 4
+
+Horizontal Push 3
+Vertical Pull 3
+Vertical Push 3
+Horizontal Pull 3
+Fly 3
+Tricep Iso 3
+Bicep Iso 3
+
+Squat 3
+Hip Hinge 3
+Quad Iso 3
+Ham Iso 3
+Calf Iso 4
+
